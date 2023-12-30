@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "email": "juanchosang@gmail.com",
+            "vote": "primero"
+        },
+        {
+            "id": 2,
+            "email": "juanchosang@gmail.com",
+            "vote": "segundo"
+        },
+        {
+            "id": 3,
+            "email": "juanchosang@gmail.com",
+            "body": "tercero"
+        }
+    ]
+}
